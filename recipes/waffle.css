@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: rgb(213, 234, 234);
+}
+
+.recipe {
+  font-style: italic;
+  font-size: 25px;
+}
+
+.heading {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+}
